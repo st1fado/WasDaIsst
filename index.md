@@ -23,7 +23,7 @@
         <div class="col-sm-2 d-none d-lg-block">
             <div class="text-center mt-lg-4">
                 <!-- TODO: Insert better picture -->
-                <img class="img-fluid w-75" src="../img/logo_test.jpeg" alt="placeholder">
+                <img class="img-fluid w-75" src="img/logo_test.jpeg" alt="placeholder">
             </div>
         </div>
         <!-- Navigation Bar -->
@@ -80,13 +80,13 @@
     <!-- Buttom Bar -->
     <ul class="nav justify-content-end navbar-expand-sm bg-dark navbar-dark fixed-bottom mt-5">
         <li class="nav-item">
-            <a class="nav-link text-white" href="career.html">Karriere</a>
+            <a class="nav-link text-white" href="html/career.html">Karriere</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-white" href="contact.html">Kontakt</a>
+            <a class="nav-link text-white" href="html/contact.html">Kontakt</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-white" href="siteNotice.html">Impressum</a>
+            <a class="nav-link text-white" href="html/siteNotice.html">Impressum</a>
         </li>
     </ul>
 
