@@ -17,20 +17,15 @@
 </head>
 <body>
 <div class="container-fluid">
-    <!-- Logo and Navigation Bar-->
     <div class="row">
-        <!-- Logo -->
         <div class="col-sm-2 d-none d-lg-block">
             <div class="text-center mt-lg-4">
-                <!-- TODO: Insert better picture -->
                 <img class="img-fluid w-75" src="img/logo_test.jpeg" alt="placeholder">
             </div>
         </div>
-        <!-- Navigation Bar -->
         <div class="col-lg mt-5">
             <nav class="navbar navbar-expand-md navbar-dark bg-dark">
 
-                <!-- Title + Button to collapse Nav Bar-->
                 <a class="navbar-brand navbar-brand-font" href="#">Was Da Is(s)t!</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent"
@@ -38,7 +33,6 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <!-- Items in the Nav Bar-->
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ">
                         <li class="nav-item active">
@@ -61,10 +55,8 @@
         </div>
     </div>
 
-    <!-- Big Example Image TODO: Insert better picture-->
     <img src="../img/food_test.jpg" class="img-fluid mx-auto stretch mt-4" alt="Responsive image">
 
-    <!-- Textual Content TODO: Insert better text-->
     <h1 class="mt-4">Heading</h1>
     <p class="mt-2 mb-5">
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
@@ -75,9 +67,6 @@
         takimata sanctus est Lorem ipsum dolor sit amet.
     </p>
 
-    <!-- TODO: Insert Content -->
-
-    <!-- Buttom Bar -->
     <ul class="nav justify-content-end navbar-expand-sm bg-dark navbar-dark fixed-bottom mt-5">
         <li class="nav-item">
             <a class="nav-link text-white" href="html/career.html">Karriere</a>
